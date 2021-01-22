@@ -1,5 +1,6 @@
 class HelloWrold{
 	public static void main(String[]args){
 		Syste.out.println("Welocme to Git");
+		System.out.println("New World");
 		}
 	}
